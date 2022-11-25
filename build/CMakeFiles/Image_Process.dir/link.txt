@@ -1,2 +1,0 @@
-/usr/bin/aarch64-linux-gnu-ar qc libImage_Process.a CMakeFiles/Image_Process.dir/lib/Image_Process/Image_Process.cpp.o
-/usr/bin/aarch64-linux-gnu-ranlib libImage_Process.a

@@ -1,1 +1,0 @@
-/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/BHU_NB_CAR_2022.dir/src/Run.cpp.o CMakeFiles/BHU_NB_CAR_2022.dir/src/Test.cpp.o -o BHU_NB_CAR_2022  libDelay.a libGPIO.a libImage_Process.a libMessage.a libMotor.a libPID.a libServo.a -lpigpio -lrt -lpthread 
