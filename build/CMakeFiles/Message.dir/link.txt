@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libMessage.a CMakeFiles/Message.dir/lib/Message/Message.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libMessage.a

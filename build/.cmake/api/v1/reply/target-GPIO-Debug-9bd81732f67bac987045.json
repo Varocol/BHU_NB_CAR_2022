@@ -1,0 +1,183 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libGPIO.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 82,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/Delay"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/GPIO"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/Image_Process"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/Message"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/Motor"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/PID"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib/Servo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/src"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/Varocol/BHU_NB_CAR_2022/lib"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "GPIO::@6890427a1f51a3e7e1df",
+	"name" : "GPIO",
+	"nameOnDisk" : "libGPIO.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/GPIO/GPIO.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/GPIO/GPIO.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

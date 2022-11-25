@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libServo.a CMakeFiles/Servo.dir/lib/Servo/Servo.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libServo.a

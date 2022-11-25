@@ -1,0 +1,2 @@
+/usr/bin/aarch64-linux-gnu-ar qc libMotor.a CMakeFiles/Motor.dir/lib/Motor/Motor.cpp.o
+/usr/bin/aarch64-linux-gnu-ranlib libMotor.a
