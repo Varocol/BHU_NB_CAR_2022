@@ -27,7 +27,7 @@ void Servo_Init()
     {
         cout << "Servo initialized success." << endl;
     }
-    delay_ms(250);
+    delay_ms(500);
     Servo_Stop();
 }
 

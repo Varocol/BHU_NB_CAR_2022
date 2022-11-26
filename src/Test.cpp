@@ -33,7 +33,7 @@ void servo_test()
             else
             {
                 Servo_Turn(angle);
-                delay_ms(250);
+                delay_ms(500);
                 Servo_Stop();
             }
         }

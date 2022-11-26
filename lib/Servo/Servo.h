@@ -11,7 +11,7 @@
 #define SERVO_MIN_ANGLE 0    //度
 #define SERVO_MAX_ANGLE 180  //度
 #define CAR_MIN_ANGLE 0      //度
-#define CAR_MAX_ANGLE 50     //度
+#define CAR_MAX_ANGLE 54     //度
 
 /*
     软件PWM在100Hz以内较为稳定
